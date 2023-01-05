@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[15]三数之和.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[15]三数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn15" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[15]三数之和.js" />
+              <option name="titleSlug" value="3sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

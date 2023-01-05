@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Algorithms-DataStructures-Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/1.两数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/10.正则表达式匹配.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/104.二叉树的最大深度.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/12.整数转罗马数字.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/15.三数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/18.四数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/19.删除链表的倒数第-n-个结点.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/2.两数相加.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/20.有效的括号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/22.括号生成.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/25.k-个一组翻转链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/26.删除有序数组中的重复项.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/27.移除元素.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/7.整数反转.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/71.简化路径.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/76.最小覆盖子串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/8.字符串转换整数-atoi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/linkList/linkList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/linkList/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/sort/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/sort/sort.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jud4tl3eGbWfiWEjKj7fMAwFr4" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sincerecsl/source/code/Algorithms-DataStructures-Learning",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "leetcode.id",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="" />
+      <created>1672931714749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672931714749</updated>
+      <workItem from="1672931715877" duration="621000" />
+      <workItem from="1672932357000" duration="2753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
