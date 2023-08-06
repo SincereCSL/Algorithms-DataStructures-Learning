@@ -4,34 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Algorithms-DataStructures-Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/1.两数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/10.正则表达式匹配.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/104.二叉树的最大深度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/12.整数转罗马数字.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/15.三数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/18.四数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/19.删除链表的倒数第-n-个结点.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/2.两数相加.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/20.有效的括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/22.括号生成.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/25.k-个一组翻转链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/26.删除有序数组中的重复项.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/27.移除元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/7.整数反转.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/71.简化路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/76.最小覆盖子串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/8.字符串转换整数-atoi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/linkList/linkList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/linkList/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/sort/arr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/sort/sort.js" afterDir="false" />
+    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="algorithm learning">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-algorithms/algorithm/12.整数转罗马数字.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-algorithms/algorithm/12.整数转罗马数字.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +27,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/sincerecsl/source/code/Algorithms-DataStructures-Learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "leetcode.id",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sincerecsl/source/code/Algorithms-DataStructures-Learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,11 +50,29 @@
       <option name="presentableId" value="Default" />
       <updated>1672931714749</updated>
       <workItem from="1672931715877" duration="621000" />
-      <workItem from="1672932357000" duration="2753000" />
+      <workItem from="1672932357000" duration="3152000" />
+      <workItem from="1675995656408" duration="1610000" />
+      <workItem from="1675998491150" duration="985000" />
+      <workItem from="1676427392079" duration="386000" />
+      <workItem from="1676444200114" duration="211000" />
+      <workItem from="1676804988352" duration="656000" />
+      <workItem from="1691202192181" duration="4622000" />
     </task>
+    <task id="LOCAL-00001" summary="algorithm learning">
+      <created>1672936312544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672936312544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="algorithm learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm learning" />
   </component>
 </project>
