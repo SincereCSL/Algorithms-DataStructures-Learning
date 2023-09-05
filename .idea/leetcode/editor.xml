@@ -3,6 +3,28 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[141]环形链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[141]环形链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn141" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[141]环形链表.js" />
+              <option name="titleSlug" value="linked-list-cycle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[146]LRU 缓存.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[146]LRU 缓存.md" />
+              <option name="frontendQuestionId" value="leetcode.cn146" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[146]LRU 缓存.js" />
+              <option name="titleSlug" value="lru-cache" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[15]三数之和.js">
           <value>
             <LeetcodeEditor>
@@ -22,6 +44,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[1]两数之和.js" />
               <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[203]移除链表元素.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[203]移除链表元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn203" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[203]移除链表元素.js" />
+              <option name="titleSlug" value="remove-linked-list-elements" />
             </LeetcodeEditor>
           </value>
         </entry>
