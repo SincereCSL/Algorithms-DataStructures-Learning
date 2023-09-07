@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="algorithm learning">
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[141]环形链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[146]LRU 缓存.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[203]移除链表元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[141]环形链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[146]LRU 缓存.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[203]移除链表元素.md" afterDir="false" />
+    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、practice LRU Cache and  linked list cycle">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -62,7 +56,8 @@
       <workItem from="1676444200114" duration="211000" />
       <workItem from="1676804988352" duration="656000" />
       <workItem from="1691202192181" duration="5388000" />
-      <workItem from="1693925542271" duration="3720000" />
+      <workItem from="1693925542271" duration="4656000" />
+      <workItem from="1694083819155" duration="3552000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm learning">
       <created>1672936312544</created>
@@ -87,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691326273960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1、practice LRU Cache and  linked list cycle">
+      <option name="closed" value="true" />
+      <created>1693930429151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693930429151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algorithm learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorithm learning" />
+    <MESSAGE value="1、practice LRU Cache and  linked list cycle" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、practice LRU Cache and  linked list cycle" />
   </component>
 </project>

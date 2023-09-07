@@ -3,6 +3,39 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[100]相同的树.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[100]相同的树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn100" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[100]相同的树.js" />
+              <option name="titleSlug" value="same-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[104]二叉树的最大深度.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[104]二叉树的最大深度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn104" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[104]二叉树的最大深度.js" />
+              <option name="titleSlug" value="maximum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[136]只出现一次的数字.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[136]只出现一次的数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn136" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[136]只出现一次的数字.js" />
+              <option name="titleSlug" value="single-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[141]环形链表.js">
           <value>
             <LeetcodeEditor>
@@ -55,6 +88,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[203]移除链表元素.js" />
               <option name="titleSlug" value="remove-linked-list-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[226]翻转二叉树.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[226]翻转二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn226" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[226]翻转二叉树.js" />
+              <option name="titleSlug" value="invert-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[231]2 的幂.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[231]2 的幂.md" />
+              <option name="frontendQuestionId" value="leetcode.cn231" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[231]2 的幂.js" />
+              <option name="titleSlug" value="power-of-two" />
             </LeetcodeEditor>
           </value>
         </entry>
