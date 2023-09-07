@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、practice LRU Cache and  linked list cycle">
+    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、binary tree">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[20]有效的括号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[20]有效的括号.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +64,7 @@
       <workItem from="1676804988352" duration="656000" />
       <workItem from="1691202192181" duration="5388000" />
       <workItem from="1693925542271" duration="4656000" />
-      <workItem from="1694083819155" duration="3552000" />
+      <workItem from="1694083819155" duration="6052000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm learning">
       <created>1672936312544</created>
@@ -90,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693930429151</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1、binary tree">
+      <option name="closed" value="true" />
+      <created>1694102244926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694102244927</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algorithm learning" />
     <MESSAGE value="1、practice LRU Cache and  linked list cycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、practice LRU Cache and  linked list cycle" />
+    <MESSAGE value="1、binary tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、binary tree" />
   </component>
 </project>
