@@ -62,20 +62,24 @@ var threeSum = function(nums) {
         return [];
     }
     let list = [];
+    //最小 + 最大之和，如果比目标值大，说明要缩小这个值，最大值向左移动，否则最小值向右移动
     //先对nums进行排序
-    nums.sort((a,b)=>a-b)
+    nums.sort((a,b)=>a-b) //n*lgn
     for(let i=0;i<nums.length;i++){
         if(nums[i] === nums[i-1]){
             continue
         }
+        //num[i] 为基准，找到另外两个数组，数组之和 -num[i]
         let left = i+1;
         let right = nums.length-1;
         while (left<right){
             if(right === i){
                 right--
             }else if(nums[left]+nums[right]+nums[i] === 0){
+                //直接找到了
                 list.push([nums[left],nums[right],nums[i]])
                 while (nums[left] === nums[left+1]){
+                    // 相同的数组
                     left++
                 }
                 left++
@@ -84,8 +88,10 @@ var threeSum = function(nums) {
                 }
                 right--
             }else if(nums[left]+nums[right]+nums[i]>0){
+                //数字大了
                 right--
             }else {
+                //数字小了
                 left++
             }
         }
