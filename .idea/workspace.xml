@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、Stack">
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[46]全排列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[79]单词搜索.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[46]全排列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[79]单词搜索.md" afterDir="false" />
+    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、练习回溯、递归思想解题">
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[455]分发饼干.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[55]跳跃游戏.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[860]柠檬水找零.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[455]分发饼干.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[55]跳跃游戏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[860]柠檬水找零.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -75,7 +77,7 @@
       <workItem from="1694135915359" duration="67000" />
       <workItem from="1694182563428" duration="3453000" />
       <workItem from="1694427538289" duration="654000" />
-      <workItem from="1694527672535" duration="3449000" />
+      <workItem from="1694527672535" duration="7540000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm learning">
       <created>1672936312544</created>
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694188286650</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1、练习回溯、递归思想解题">
+      <option name="closed" value="true" />
+      <created>1694532191780</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694532191780</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +165,7 @@
     <MESSAGE value="1、binary tree" />
     <MESSAGE value="1、valid parentheses" />
     <MESSAGE value="1、Stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、Stack" />
+    <MESSAGE value="1、练习回溯、递归思想解题" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、练习回溯、递归思想解题" />
   </component>
 </project>

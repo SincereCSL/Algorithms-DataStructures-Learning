@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[455]分发饼干.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[455]分发饼干.md" />
+              <option name="frontendQuestionId" value="leetcode.cn455" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[455]分发饼干.js" />
+              <option name="titleSlug" value="assign-cookies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[46]全排列.js">
           <value>
             <LeetcodeEditor>
@@ -143,6 +154,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[46]全排列.js" />
               <option name="titleSlug" value="permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[55]跳跃游戏.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[55]跳跃游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cn55" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[55]跳跃游戏.js" />
+              <option name="titleSlug" value="jump-game" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -165,6 +187,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[79]单词搜索.js" />
               <option name="titleSlug" value="word-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[860]柠檬水找零.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[860]柠檬水找零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn860" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[860]柠檬水找零.js" />
+              <option name="titleSlug" value="lemonade-change" />
             </LeetcodeEditor>
           </value>
         </entry>
