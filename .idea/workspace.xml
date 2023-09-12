@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、valid parentheses">
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[71]简化路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[71]简化路径.md" afterDir="false" />
+    <list default="true" id="20d97ca4-1fb3-4887-a02e-c25630b6ac77" name="Changes" comment="1、Stack">
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[46]全排列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[79]单词搜索.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[46]全排列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[79]单词搜索.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[15]三数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[15]三数之和.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/sincerecsl/source/code/Algorithms-DataStructures-Learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "leetcode.id",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sincerecsl/source/code/Algorithms-DataStructures-Learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +73,9 @@
       <workItem from="1694083819155" duration="6341000" />
       <workItem from="1694105711432" duration="552000" />
       <workItem from="1694135915359" duration="67000" />
-      <workItem from="1694182563428" duration="2717000" />
+      <workItem from="1694182563428" duration="3453000" />
+      <workItem from="1694427538289" duration="654000" />
+      <workItem from="1694527672535" duration="3449000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm learning">
       <created>1672936312544</created>
@@ -120,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694105459396</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1、Stack">
+      <option name="closed" value="true" />
+      <created>1694188286650</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694188286650</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +154,7 @@
     <MESSAGE value="1、practice LRU Cache and  linked list cycle" />
     <MESSAGE value="1、binary tree" />
     <MESSAGE value="1、valid parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、valid parentheses" />
+    <MESSAGE value="1、Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、Stack" />
   </component>
 </project>
