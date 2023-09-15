@@ -157,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[509]斐波那契数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/doc/content/[509]斐波那契数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn509" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[509]斐波那契数.js" />
+              <option name="titleSlug" value="fibonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/javascript-algorithms/leetcode/editor/cn/[55]跳跃游戏.js">
           <value>
             <LeetcodeEditor>
