@@ -1,7 +1,8 @@
 .DS_Store
-.idea
 # Editor directories and files
 .idea
+.idea/
+/.idea/
 .vscode
 *.suo
 *.ntvs*
