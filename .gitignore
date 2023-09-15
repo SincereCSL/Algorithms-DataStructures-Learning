@@ -1,8 +1,4 @@
 .DS_Store
-
-# local env files
-.env.local
-.env.*.local
 .idea
 # Editor directories and files
 .idea
@@ -11,4 +7,3 @@
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
