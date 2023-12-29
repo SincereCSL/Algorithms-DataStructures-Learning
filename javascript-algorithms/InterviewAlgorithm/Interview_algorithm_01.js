@@ -1,4 +1,4 @@
-//1、  设计一个大数加法：有两个特别大的数(用字符串表示)，设计一个add()方法；
+//设计一个大数加法：有两个特别大的数(用字符串表示)，设计一个add()方法；
 function addLargeNumber (num1, num2) {
     // 主要思路：如果是通过将数字转为字符串，然后字符串按位相加
     let result = ""; //保存最后返回结果
@@ -19,5 +19,5 @@ function addLargeNumber (num1, num2) {
     }
     return result;
 }
-
 console.log(addLargeNumber('23480623453457923523', '723456923458023456238045')); // '723480404081476914161568'
+
