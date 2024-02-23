@@ -69,16 +69,32 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
-    let  arr = [];
-    function  dfs(root){
-        if(root === null){
-            return
-        }
-        arr.push(root.val)
-        dfs(root.left)
-        dfs(root.right)
+    // let  arr = [];
+    // function  dfs(root){
+    //     if(root === null){
+    //         return
+    //     }
+    //     arr.push(root.val)
+    //     dfs(root.left)
+    //     dfs(root.right)
+    // }
+    // dfs(root)
+    // return arr;
+
+    //迭代解法：
+
+    let res = [];
+    if(root === null){
+        return res
     }
-    dfs(root)
-    return arr;
+    let stack = [root];
+    while (stack.length){
+        let cur = stack.pop()
+        res.push(cur.val)
+        cur.right && stack.push(cur.right);
+        cur.left && stack.push(cur.left);
+    }
+    return  res
+
 };
 //leetcode submit region end(Prohibit modification and deletion)
