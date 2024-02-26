@@ -51,7 +51,7 @@
  * @return {number[][]}
  */
 var levelOrderBottom = function(root) {
-    // 队列方式
+    // 队列方式解答
     let ret = [];
     if(root === null){
         return ret
