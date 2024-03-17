@@ -56,7 +56,22 @@
  * @return {TreeNode}
  */
 var sortedListToBST = function(head) {
-
+    // 快慢指针
+    function travese(head,tail){
+        if(head === tail){
+            return null
+        }
+        let slow = fast = head;
+        while (fast !== tail && fast.next !== tail){
+            slow = slow.next
+            fast = fast.next.next
+        }
+        let root = new TreeNode(slow.val)
+        root.left = travese(head,slow)
+        root.right = travese(slow.next,tail)
+        return root;
+    }
+    return travese(head,null)
 
 };
 //leetcode submit region end(Prohibit modification and deletion)
