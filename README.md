@@ -1,4 +1,16 @@
 # Algorithms-DataStructures-Learning
+## 算法学习书籍、视频资源
+### 书籍资源
+
+- [算法4](https://book.douban.com/subject/19952400/)
+- [Hello算法](https://book.douban.com/subject/36794227/)
+- [labuladong的算法小抄](https://book.douban.com/subject/35252621/)
+- [labuladong的算法笔记](https://book.douban.com/subject/36537238/)
+
+### 视频资源
+- [慕课网：算法与数据结构](https://class.imooc.com/sale/datastructure?mc_marking=847f8fb5de6faa3343df639065d45b7d&mc_channel=imoocsearch)
+- [Harvards Advanced Algorithms Course](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&ab_channel=HarvardUniversity)
+- 
 ## 数据结构基础
 - 数据结构研究的是数据如何在计算机中进行组织和存储，使得我们可以【高效】的获取数据或修改数据。
 
